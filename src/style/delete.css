@@ -1,0 +1,16 @@
+.delete-main {
+  margin-top: 50px;
+}
+
+.delete-main p {
+  font-size: 18px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  word-spacing: 10px;
+  border-bottom: 1px solid white;
+}
+
+.delete-main button {
+  padding: 7px;
+  border-radius: 10px;
+}

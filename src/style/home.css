@@ -1,0 +1,24 @@
+.home-main {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap: 20px;
+}
+
+.home-main ul {
+  padding: 10px 10px 5px 10px;
+  background-color: #17161B;
+  border-radius: 0 10px 20px;
+  text-indent: 10px;
+}
+
+.home-main li {
+  line-height: 200%;
+}
+
+.home-main button {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 7px;
+  margin-left: 12%;
+  border-radius: 10px;
+}

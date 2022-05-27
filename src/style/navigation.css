@@ -1,0 +1,31 @@
+.navigation {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20%;
+}
+
+
+.navigation-links ul {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+
+.navigation-links li {
+  font-size: 24px;
+  font-weight: 600;
+  color: #5B4FCF;
+} 
+
+.navigation-search {
+  margin-right: 50px;
+}
+
+.navigation-search input {  
+  padding: 7px;
+  width: 200px; 
+  font-size: 16px;
+}

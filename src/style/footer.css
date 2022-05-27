@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 150px;
+}
+
+.footer-left {
+  margin-left: 10%;
+}
+
+.footer-left input {
+  padding: 10px;
+}
+
+.footer-left button {
+  padding: 12px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.footer-left img {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.footer-center h1 {
+  font-size: 26px;
+  font-weight: 600;
+  text-indent: 30px;
+}
+
+.footer a {
+  margin-right: 10%; 
+}
+
+.footer-right p {
+  text-align: center;
+}

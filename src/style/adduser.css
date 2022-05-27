@@ -1,0 +1,56 @@
+.adduser-main {
+  margin-top: 50px;
+}
+
+.adduser-main p  {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.adduser-main label  {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.adduser-main input  {
+  padding: 7px;
+}
+
+.adduser-main textarea  {
+  padding: 10px;
+}
+
+.adduser-main button  {
+  padding: 10px;
+  width: 100%;
+  margin-top: 40px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.adduser-main button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.adduser-main-basic {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #5B4FCF;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.adduser-main-more {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #5B4FCF;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 25px;
+}
